@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyog Shrestha</h1>
-<h3 align="center">A passionate front-end developer from Nepal</h3>
+<h3 align="center">A passionate Front-end developer from Nepal</h3>
 
 - 🌱 I’m currently learning **React**
 
