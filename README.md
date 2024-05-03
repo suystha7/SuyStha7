@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyog Shrestha</h1>
 <h3 align="center">A Frontend Developerl</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
