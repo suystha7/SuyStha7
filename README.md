@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suyog Shrestha</h1>
-<h3 align="center">A Frontend Developerl</h3>
 
-- 🌱 I’m currently learning **MERN**
+🔭 I’m currently learning and exploring Web Development
 
-- 👯 I’m looking to collaborate on **React Projects**
+🌱 I’m currently learning React Framework
 
-- 📫 How to reach me **suyogshrestha97@gmail.com**
+👯 I’m looking to collaborate on Frontend Projects
+
+💬 Ask me about HTML5, CSS3, JavaScript, TypeScript ,React , Next Js
+
+📫 How to reach me suyogshrestha97@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
