@@ -2,7 +2,7 @@
 
 🔭 I’m currently learning and exploring Web Development
 
-🌱 I’m currently learning React Framework & MERN stack
+🌱 I’m currently learning  MERN stack
 
 👯 I’m looking to collaborate on Full Stack Projects
 
