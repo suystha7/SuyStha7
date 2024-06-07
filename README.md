@@ -2,11 +2,11 @@
 
 🔭 I’m currently learning and exploring Web Development
 
-🌱 I’m currently learning React Framework
+🌱 I’m currently learning React Framework & MERN stack
 
-👯 I’m looking to collaborate on Frontend Projects
+👯 I’m looking to collaborate on Full Stack Projects
 
-💬 Ask me about HTML5, CSS3, JavaScript, TypeScript ,React , Next Js
+💬 Ask me about HTML5, CSS3, JavaScript, TypeScript ,React JS , Next JS, Express JS, Mongodb and soon...
 
 📫 How to reach me suyogshrestha97@gmail.com
 
